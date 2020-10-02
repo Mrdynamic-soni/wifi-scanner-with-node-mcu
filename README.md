@@ -1,2 +1,2 @@
 # wifi-scanner-with-node-mcu
-simple code of node MCU to sacn wifi nearby
+simple code of node MCU to scan wifi nearby
